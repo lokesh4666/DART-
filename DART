@@ -1,0 +1,8 @@
+void main()
+{
+String CharacterName ="KASSE LOKESH BABU";
+print("The name of the person is${CharacterName};
+print("age of the person is 70");
+}
+
+
